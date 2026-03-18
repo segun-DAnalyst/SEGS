@@ -1,4 +1,4 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=180&section=header&text=Oluwasegun%20Balogun&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
@@ -19,17 +19,17 @@
 
 ---
 
-## 🚀 Professional Summary
+## 👨‍💻 Professional Summary
 
-Data Analyst with strong experience in **Power BI dashboard development, SQL data querying, Excel automation, and business performance reporting.**
+Data Analyst experienced in building **Power BI dashboards, SQL data models, Excel reporting solutions, and business performance analytics.**
 
-I help organisations **monitor KPIs, uncover trends, optimise operations, and support strategic decision-making through data storytelling and visual analytics.**
+I help organisations **track KPIs, uncover trends, optimise processes, and support strategic decision-making using data storytelling and visual analytics.**
 
 📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
 
 ---
 
-## 🧰 Core Skills & Tools
+## 🧰 Core Tools & Technologies
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
@@ -41,26 +41,23 @@ I help organisations **monitor KPIs, uncover trends, optimise operations, and su
 
 ---
 
-## ⭐ Featured Analytics Projects
+## ⭐ Featured Analytics Project
 
 ### 📊 Sales Performance Dashboard — Power BI
-- Designed an interactive dashboard tracking **revenue, profit margin, and regional performance**
-- Enabled stakeholders to identify **underperforming products and growth opportunities**
 
-### 👥 Customer Segmentation Analysis — Python & SQL
-- Applied clustering techniques to segment customers based on purchasing behaviour  
-- Delivered insights that supported **targeted marketing strategy**
+Developed an interactive dashboard analysing **revenue trends, regional sales performance, and product profitability.**
 
-### 📈 Operations KPI Reporting — Excel & Power BI
-- Automated monthly reporting process reducing manual workload by **40%**
-- Built visual KPI trackers improving management visibility
+The solution enabled stakeholders to **identify underperforming areas, monitor KPIs, and make data-driven commercial decisions.**
+
+🔗 View Project  
+https://github.com/Olu-DAnalyst/sales-performance-dashboard
 
 ---
 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-<img src="YOUR_DASHBOARD_IMAGE_LINK" width="700"/>
+<img src="PUT_YOUR_DASHBOARD_IMAGE_LINK_HERE" width="800"/>
 </p>
 
 ---
@@ -68,7 +65,7 @@ I help organisations **monitor KPIs, uncover trends, optimise operations, and su
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Olu-DAnalyst&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Olu-DAnalyst&show_icons=true"/>
 </p>
 
 <p align="center">
@@ -81,11 +78,9 @@ I help organisations **monitor KPIs, uncover trends, optimise operations, and su
 
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Let's Connect
 
-I am passionate about using data to **solve business problems, improve performance, and drive measurable impact.**
-
-If you're hiring or working on analytics projects — let's connect.
+I am passionate about using data to **solve business problems, improve performance, and deliver measurable impact.**
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/oluwasegun-balogun  

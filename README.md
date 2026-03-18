@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Data Analyst experienced in building **Power BI dashboards, SQL data models, Excel reporting solutions, and business performance analytics.**
+Data Analyst experienced in building **interactive Power BI dashboards, SQL data models, Excel reporting solutions, and business performance analytics.**
 
 I help organisations **track KPIs, uncover trends, optimise processes, and support strategic decision-making using data storytelling and visual analytics.**
 
@@ -45,9 +45,9 @@ I help organisations **track KPIs, uncover trends, optimise processes, and suppo
 
 ### 📊 Sales Performance Dashboard — Power BI
 
-Developed an interactive dashboard analysing **revenue trends, regional sales performance, and product profitability.**
+Developed an interactive dashboard analysing **revenue trends, regional sales performance, product profitability and KPI targets.**
 
-The solution enabled stakeholders to **identify underperforming areas, monitor KPIs, and make data-driven commercial decisions.**
+The dashboard enables stakeholders to **monitor performance, identify growth opportunities and make data-driven commercial decisions.**
 
 🔗 View Project  
 https://github.com/Olu-DAnalyst/sales-performance-dashboard
@@ -57,8 +57,24 @@ https://github.com/Olu-DAnalyst/sales-performance-dashboard
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-<img src="PUT_YOUR_DASHBOARD_IMAGE_LINK_HERE" width="800"/>
+<img src="PUT_DASHBOARD_IMAGE_LINK_HERE" width="850"/>
 </p>
+
+---
+
+## 📂 Other Analytics Projects
+
+🔹 **Customer Segmentation Analysis — Python & SQL**  
+Customer clustering analysis used to identify high-value customer groups and support targeted marketing strategies.  
+🔗 https://github.com/Olu-DAnalyst/customer-segmentation-analysis  
+
+🔹 **Operations KPI Dashboard — Excel / Power BI**  
+Automated operational reporting solution tracking service performance metrics and efficiency indicators.  
+🔗 https://github.com/Olu-DAnalyst/operations-kpi-dashboard  
+
+🔹 **Marketing Campaign Performance Analysis — SQL / Excel**  
+Analysed campaign ROI, conversion rates and channel effectiveness to support marketing optimisation.  
+🔗 https://github.com/Olu-DAnalyst/marketing-campaign-analysis  
 
 ---
 
@@ -80,7 +96,7 @@ https://github.com/Olu-DAnalyst/sales-performance-dashboard
 
 ## 🤝 Let's Connect
 
-I am passionate about using data to **solve business problems, improve performance, and deliver measurable impact.**
+I am passionate about using data to **solve business problems, improve performance and deliver measurable impact.**
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/oluwasegun-balogun  

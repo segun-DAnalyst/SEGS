@@ -19,23 +19,59 @@
 
 ---
 
-# Hi, I'm Oluwasegun Balogun 👋
+## 👨‍💻 About Me
 
-**Data Analyst | BI Analyst | Power BI | SQL | Python | Excel | Tableau**
+I am a **Data Analyst and Business Intelligence professional** passionate about transforming raw data into meaningful insights, interactive dashboards, and decision-ready reports.
 
-I transform raw data into **interactive dashboards, business insights, and decision-ready reports** that help organizations make better decisions.
+I specialise in helping organisations **track performance, identify trends, optimise processes, and make data-driven strategic decisions.**
 
-📍 Open to **Data Analyst, BI Analyst, and Reporting Analyst roles**
-
-🔗 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/oluwasegun-balogun)
+📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
 
 ---
 
-# 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+</p>
+
+---
+
+## 📊 Featured Projects
+
+🔹 **Sales Performance Dashboard (Power BI)**  
+Built an interactive dashboard analysing revenue trends, regional performance, and product profitability.
+
+🔹 **Customer Segmentation Analysis (Python & SQL)**  
+Performed clustering analysis to identify high-value customer groups and improve targeting strategies.
+
+🔹 **Operational KPI Reporting (Excel & Power BI)**  
+Developed automated reports reducing manual reporting time by 40%.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing **data analytics opportunities, collaborations, and impactful projects.**
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/oluwasegun-balogun
+
+📧 Email:  
+segbalogun@yahoo.com

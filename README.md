@@ -43,11 +43,11 @@ I help organisations **track KPIs, uncover trends, optimise processes, and suppo
 
 ## ⭐ Featured Analytics Project
 
-### 📊 Sales Performance Dashboard — Power BI
+### 📊 Retail Sales Performance Dashboard — Power BI
 
-Developed an interactive dashboard analysing **revenue trends, regional sales performance, product profitability and KPI targets.**
+Designed and developed an interactive Power BI dashboard to consolidate **multi-channel retail sales data (online and in-store)** into a single performance monitoring solution.
 
-The dashboard enables stakeholders to **monitor performance, identify growth opportunities and make data-driven commercial decisions.**
+The dashboard provides visibility into **revenue ($155M), profit ($57.7M), order trends, channel contribution, top products and city performance**, enabling stakeholders to track KPIs, compare year-over-year results and make informed commercial decisions.
 
 🔗 View Project  
 https://github.com/Olu-DAnalyst/sales-performance-dashboard
